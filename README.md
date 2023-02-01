@@ -27,7 +27,6 @@ the values of two consecutive dice rolls.
 Once the player beats the fifth level they are greeted by a celebratory victory screen ! Awesome job !
   
 Acknowledgements: 
-
 The following code was originally created and compiled on Code.org, now transferred to VSCode/Git.
 - Code.org
 - VSCode
