@@ -2,7 +2,7 @@
 
 Project Title: 'Puzzle World' Game!
 
-Author: 
+Author:
 @author Michael Puglise 
 
 Description: 
