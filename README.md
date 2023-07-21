@@ -11,7 +11,7 @@ Difference," where the player must click on the differences between the two prov
 mistake and they must start over, directed by a losing screen. 
 
 In the second level the player must guess the secret number (randomly generated between 1 and 25). The player has five guesses to do so. However, after
-each guess the player is given a hint to either try guessing higher or lower. Once the user guesses the right number, they move on to the next minigame. 
+each guess the player is given a hint to either try guessing higher or lower. Once the user guesses the right number, they move on to the next minigame.
   
 Level number three is Suduko, where the user must correctly input five numbers into an existing sudoko grid. If the user gets all three right, they move
 on to the next level. 
