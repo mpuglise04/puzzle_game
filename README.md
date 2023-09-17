@@ -4,7 +4,7 @@ Project Title: 'Puzzle World' Game!
 
 Author:
 @author Michael Puglise 
-
+ 
 Description: 
 This repository contains the JavaScript code for a 'Puzzle World' game in which the user must pass five levels to win. The first level is "Spot the
 Difference," where the player must click on the differences between the two provided images to proceed. For this level the player has one life, so one
